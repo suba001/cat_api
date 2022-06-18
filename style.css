@@ -1,0 +1,28 @@
+.container{
+    margin-left: 400px;
+}
+.card-title{
+    text: center;
+    color: antiquewhite;
+}
+.card-text{
+    color: gold;
+}
+#dog_btn{
+    margin-left: 100px;
+    background-color: rgb(183, 105, 162);
+    border-radius: 10px;
+    border: white;
+}
+#r{
+    color: white;
+}
+#result{
+    color: rgb(250, 9, 41);
+    border: white;
+    background-color: rgb(142, 173, 230);
+}
+
+.one{
+    text-align: center;
+}
